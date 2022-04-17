@@ -63,8 +63,28 @@ This repo is a visulize guide with refrenace to specifc contant what will help y
         k8s-basic-finish((Now you know the basics,\n let's go to the next level))
         k8s-basic-finish --> deployment-expert
 
-        deployment-expert(Deployment expert) -- to be continued... --> expert
+        deployment-expert(Deployments & Pods Expert)
+        deployment-expert --> stateful-expert
 
+        stateful-expert(Stateful Sets & Volumes Expert)
+        stateful-expert --> advanced-configuration
+
+        advanced-configuration(Advanced Configuration & Secrets)
+        advanced-configuration --> scaling-and-scheduling
+
+        scaling-and-scheduling(Scaling & Scheduling)
+        scaling-and-scheduling --> metrics-and-logs
+
+        metrics-and-logs(Monitoring, Metrics & Logs)
+        metrics-and-logs --> service-ingress
+
+        service-ingress(Incoming traffic - service & ingress)
+        service-ingress --> troubleshooting
+
+        troubleshooting(Troubleshooting)
+        troubleshooting --> security-expert
+
+        security-expert(Security Expert) --> expert
 
         
         expert(K8S Expert! - your journey starts here)

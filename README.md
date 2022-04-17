@@ -38,6 +38,7 @@ This repo is a visulize guide with refrenace to specifc contant what will help y
         
 
             kubectl(Install kubectl)
+            click kubectl "https://github.com/guymenahem/the-kubernetes-journey/tree/kubectl/Beginner/install-kubectl"
             kubectl --> k8s-local
 
             k8s-local(Run a local kubernets cluster)

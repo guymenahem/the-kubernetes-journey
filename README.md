@@ -1,10 +1,12 @@
 # The Kubernetes Journey
 ## The Kubernetes journey by the community for the community
 
-This repo is a visulize guide with refrenace to specifc contant what will help you to learn Kubernetes.
+A visulize guide to how to be a Kubernetes expert created by the community.
+We belive that true power comes from the community.
 
-## The jounrey
+## The Jounrey
 
+Click on the kubes below to read the chapters.
 
 ```mermaid
     flowchart TD;
@@ -38,7 +40,7 @@ This repo is a visulize guide with refrenace to specifc contant what will help y
         
 
             kubectl(Install kubectl)
-            click kubectl "https://github.com/guymenahem/the-kubernetes-journey/tree/kubectl/Beginner/install-kubectl"
+            click kubectl "https://github.com/guymenahem/the-kubernetes-journey/tree/main/Beginner/install-kubectl"
             kubectl --> k8s-local
 
             k8s-local(Run a local kubernets cluster)
@@ -90,3 +92,9 @@ This repo is a visulize guide with refrenace to specifc contant what will help y
         
         expert(K8S Expert! - your journey starts here)
 ```
+
+
+## How to contribute?
+- Open a PR 
+- [Email me - guy@thegoodguy.io](guy@thegoodguy.io)
+- [Follow me / tweet me - @the_guy_guym](https://twitter.com/the_good_guym)

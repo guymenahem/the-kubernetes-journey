@@ -11,13 +11,17 @@
     install-nice-to-have --> k9s
     install-nice-to-have --> kubectl-aliases
 
-    kubectl-autocompletion(NICE TO HAVE - Install kubectl autocompletion) --> next-create-a-cluster
+    kubectl-autocompletion(Install kubectl autocompletion) --> next-create-a-cluster
+    click kubectl-autocompletion "https://kubernetes.io/docs/tasks/tools/included/optional-kubectl-configs-bash-linux/"
 
-    kubectl-kubectx-kubens(NICE TO HAVE - Install kubectx and kubens) --> next-create-a-cluster
+    kubectl-kubectx-kubens(Install kubectx and kubens) --> next-create-a-cluster
+    click kubectl-kubectx-kubens "https://github.com/ahmetb/kubectx"
 
-    k9s(NICE TO HAVE - Install k9s) --> next-create-a-cluster
+    k9s(Install k9s) --> next-create-a-cluster
+    click k9s "https://github.com/derailed/k9s"
 
-    kubectl-aliases(NICE TO HAVE - Install kubectl aliases) --> next-create-a-cluster
+    kubectl-aliases(Install kubectl aliases) --> next-create-a-cluster
+    click kubectl-aliases "https://github.com/ahmetb/kubectl-aliases"
 
     next-create-a-cluster(NEXT - Create a cluster)
 ```

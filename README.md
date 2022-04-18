@@ -96,5 +96,5 @@ Click on the kubes below to read the chapters.
 
 ## How to contribute?
 - Open a PR 
-- [Email me - guy@thegoodguy.io](guy@thegoodguy.io)
+- Email me - guy@thegoodguy.io
 - [Follow me / tweet me - @the_guy_guym](https://twitter.com/the_good_guym)

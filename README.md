@@ -18,9 +18,11 @@ Click on the kubes below to read the chapters.
         fundamentals -- I have strong foundations --> k8s-intro
 
             linux(Basic Linux)
+            click linux "https://github.com/guymenahem/the-kubernetes-journey/tree/main/Beginner/basic-linux"
             linux --> networking
+            linux --> containers
 
-            networking(Networking)
+            networking(Optional -  Networking)
             networking --> containers
 
             containers(Containers)

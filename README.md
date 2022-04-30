@@ -23,7 +23,7 @@ Click on the kubes below to read the chapters.
             linux --> containers
 
             networking(Optional -  Networking)
-            click linux "https://github.com/guymenahem/the-kubernetes-journey/tree/main/Beginner/basic-networking"
+            click networking "https://github.com/guymenahem/the-kubernetes-journey/tree/main/Beginner/basic-networking"
             networking --> containers
 
             containers(Containers)

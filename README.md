@@ -27,6 +27,7 @@ Click on the kubes below to read the chapters.
             networking --> containers
 
             containers(Containers)
+            click containers "https://github.com/guymenahem/the-kubernetes-journey/tree/main/Beginner/basic-containers"
             containers --> k8s-intro
 
         k8s-intro(Intro to Kubernetes)

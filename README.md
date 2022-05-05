@@ -4,7 +4,7 @@
 A visulize guide to how to be a Kubernetes expert created by the community.
 We belive that true power comes from the community.
 
-## The Jounrey
+## The Journey
 
 Click on the kubes below to read the chapters.
 

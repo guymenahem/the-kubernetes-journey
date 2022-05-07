@@ -4,9 +4,12 @@
 A visualized guide to how to be a Kubernetes expert created by the community.
 We believe that true power comes from the community.
 
-## The Journey
+<br>
+<br>
 
-Click on the cubes below to read the chapters.
+
+# The Journey - Explore By Click The Blocks
+
 
 ```mermaid
     flowchart TD;
@@ -15,6 +18,7 @@ Click on the cubes below to read the chapters.
         start --> fundamentals
 
         fundamentals(Build Your Fundamentals)
+        click fundamentals "https://github.com/guymenahem/the-kubernetes-journey/tree/main/Intros/build-fundamentals"
         fundamentals --> linux
         fundamentals -- I have strong foundations --> k8s-intro
 
@@ -32,12 +36,19 @@ Click on the cubes below to read the chapters.
             containers --> k8s-intro
 
         k8s-intro(Intro to Kubernetes)
-        k8s-intro --> k8s-arch
+        click k8s-intro "https://github.com/guymenahem/the-kubernetes-journey/tree/main/Intros/intro-k8s"
+        k8s-intro -- Interested in technical stuff  --> k8s-concepts
+        k8s-intro -- I'm here for the overview  --> k8s-overview
         k8s-intro -- I know the architecture & concepts --> k8s-first-run
 
-            k8s-arch(Kubernetes Architecture) --> k8s-concepts
+            k8s-concepts(Kubernetes Concepts) --> k8s-arch
+            
+            
+            k8s-arch(Kubernetes Architecture) --> k8s-first-run
+            
 
-            k8s-concepts(Kubernetes Concepts) --> k8s-first-run
+            k8s-overview(Kubernetes Overview)
+            k8s-overview --> k8s-first-run
 
         k8s-first-run(Run you first cluster)
         k8s-first-run -- I Have a cluster --> k8s-first-resources

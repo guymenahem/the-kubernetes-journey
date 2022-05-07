@@ -1,18 +1,13 @@
-# Basic Containers
+# Your Journey Starts Here
 
-```
-                     _                                     
-                    (_)                                    
-  ___ ___  _ __ ___  _ _ __   __ _   ___  ___   ___  _ __        
- / __/ _ \| '_ ` _ \| | '_ \ / _` | / __|/ _ \ / _ \| '_ \ 
-| (_| (_) | | | | | | | | | | (_| | \__ \ (_) | (_) | | | |
- \___\___/|_| |_| |_|_|_| |_|\__, | |___/\___/ \___/|_| |_|
-                              __/ |                        
-                             |___/    
+Every journey start somewhere, here is the start of the Kubernetes journey.
+The Kubernetes journey is a journey built by the community to create a recommended path to learn Kubernetes with the best content.
 
+As you know - the is no "best" so with many opinions we will be able to great the ultimate learning path.
 
-```
+## How to Use?
+- Click on each step in the path to deep dive into it!
+- Learn
+- Star
+- Contribute!
 
-
-## Learn Containers
-- [Docker Tutorial for Beginners](https://www.youtube.com/watch?v=3c-iBn73dDE)

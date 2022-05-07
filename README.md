@@ -11,6 +11,7 @@ Click on the kubes below to read the chapters.
 ```mermaid
     flowchart TD;
         start(Beginner  - your journey starts here)
+        click start "https://github.com/guymenahem/the-kubernetes-journey/tree/main/Intros/journey-start"
         start --> fundamentals
 
         fundamentals(Build Your Fundamentals)

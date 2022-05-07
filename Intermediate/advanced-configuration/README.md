@@ -1,4 +1,4 @@
-# Kubernetes Concepts
+# Advanced Configuration
 
 ```
                      _                                     

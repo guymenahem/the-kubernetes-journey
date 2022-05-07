@@ -1,5 +1,4 @@
-# Kubernetes Concepts
-
+# Troubleshooting
 ```
                      _                                     
                     (_)                                    

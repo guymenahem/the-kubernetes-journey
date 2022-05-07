@@ -1,4 +1,4 @@
-# Kubernetes Concepts
+# Scaling & Scheduling
 
 ```
                      _                                     

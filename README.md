@@ -1,12 +1,12 @@
 # The Kubernetes Journey
 ## The Kubernetes journey by the community for the community
 
-A visulize guide to how to be a Kubernetes expert created by the community.
-We belive that true power comes from the community.
+A visualized guide to how to be a Kubernetes expert created by the community.
+We believe that true power comes from the community.
 
 ## The Journey
 
-Click on the kubes below to read the chapters.
+Click on the cubes below to read the chapters.
 
 ```mermaid
     flowchart TD;
@@ -35,7 +35,7 @@ Click on the kubes below to read the chapters.
         k8s-intro --> k8s-arch
         k8s-intro -- I know the architecture & concepts --> k8s-first-run
 
-            k8s-arch(Kubernete Architecture) --> k8s-concepts
+            k8s-arch(Kubernetes Architecture) --> k8s-concepts
 
             k8s-concepts(Kubernetes Concepts) --> k8s-first-run
 
@@ -48,7 +48,7 @@ Click on the kubes below to read the chapters.
             click kubectl "https://github.com/guymenahem/the-kubernetes-journey/tree/main/Beginner/install-kubectl"
             kubectl --> k8s-local
 
-            k8s-local(Run a local kubernets cluster)
+            k8s-local(Run a local Kubernetes cluster)
             k8s-local --> k8s-first-resources
 
 

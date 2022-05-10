@@ -50,7 +50,6 @@ We believe that true power comes from the community.
             
 
             k8s-overview(Kubernetes Overview)
-            click k8s-overview "https://github.com/guymenahem/the-kubernetes-journey/tree/main/Intros/k8s-overview"
             k8s-overview --> k8s-first-run
 
         k8s-first-run(Run your first cluster)

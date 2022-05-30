@@ -37,9 +37,14 @@ We believe that true power comes from the community.
 
         k8s-intro(Intro to Kubernetes)
         click k8s-intro "https://github.com/guymenahem/the-kubernetes-journey/tree/main/Intros/intro-k8s"
-        k8s-intro -- Interested in technical stuff  --> k8s-concepts
-        k8s-intro -- I'm here for the overview  --> k8s-overview
-        k8s-intro -- I know the architecture & concepts --> k8s-first-run
+        k8s-intro --> what's-k8s
+
+        what's-k8s(What is Kubernetes?)
+        click what's-k8s "https://github.com/guymenahem/the-kubernetes-journey/tree/main/Beginner/whats-k8s"
+
+        what's-k8s -- Interested in technical stuff  --> k8s-concepts
+        what's-k8s -- I'm here for the overview  --> k8s-overview
+        what's-k8s -- I know the architecture & concepts --> k8s-first-run
 
             k8s-concepts(Kubernetes Concepts) --> k8s-arch
             click k8s-concepts "https://github.com/guymenahem/the-kubernetes-journey/tree/main/Beginner/k8s-concepts"
@@ -47,15 +52,9 @@ We believe that true power comes from the community.
             
             k8s-arch(Kubernetes Architecture) --> k8s-first-run
             click k8s-arch "https://github.com/guymenahem/the-kubernetes-journey/tree/main/Beginner/k8s-architecture"
-            
-        k8s-intro --> what's-k8s
-        k8s-intro -- I know the architecture & concepts --> k8s-first-run
-
-            what's-k8s(What is Kubernetes?)
-            what's-k8s --> k8s-arch
 
 
-            k8s-arch(Kubernetes Architecture) --> k8s-concepts
+            k8s-arch(Kubernetes Architecture)
 
             k8s-overview(Kubernetes Overview)
             k8s-overview --> k8s-first-run

@@ -48,6 +48,14 @@ We believe that true power comes from the community.
             k8s-arch(Kubernetes Architecture) --> k8s-first-run
             click k8s-arch "https://github.com/guymenahem/the-kubernetes-journey/tree/main/Beginner/k8s-architecture"
             
+        k8s-intro --> what's-k8s
+        k8s-intro -- I know the architecture & concepts --> k8s-first-run
+
+            what's-k8s(What is Kubernetes?)
+            what's-k8s --> k8s-arch
+
+
+            k8s-arch(Kubernetes Architecture) --> k8s-concepts
 
             k8s-overview(Kubernetes Overview)
             k8s-overview --> k8s-first-run
